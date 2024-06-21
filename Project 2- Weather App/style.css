@@ -89,18 +89,5 @@ body{
     color: red;
     display: none;
 }
-@media only screen and (min-width: 390px){
-    .container{
-    width: 90%;
-    max-width: 375px;
-    background: linear-gradient(120deg, #00ff65, #00adff);
-    margin:  60px auto 0;
-    color: #fff;
-    border-radius: 150px;
-    padding: 15px 15px;
-    text-align: center;
-    margin-top: 20px;
-}
-}
-   
+
     
